@@ -1,2 +1,2 @@
-# cousera-test
+# cousera
 cousera test repository
